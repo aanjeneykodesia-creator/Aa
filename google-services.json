@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "953529377652",
+    "project_id": "transporter-a3f51",
+    "storage_bucket": "transporter-a3f51.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:953529377652:android:9d709e6d4a644f61824221",
+        "android_client_info": {
+          "package_name": "com.example.manufacturer_transport_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBrz-N88VW-yu2gd6WhIiZWrI4zteIXbG0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
